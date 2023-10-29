@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Hello Japan</string>
+    <string name="name_alpha_h">Hiragana</string>
+    <string name="name_alpha_k">Katakana</string>
+    <string name="btn_h">Hiragana</string>
+    <string name="btn_k">Katakana</string>
+    <string name="content_a">a</string>
+    <string name="content_i">i</string>
+    <string name="content_u">u</string>
+    <string name="content_e">e</string>
+    <string name="content_o">o</string>
+
+    <string name="content_ka">ka</string>
+    <string name="content_ki">ki</string>
+    <string name="content_ku">ku</string>
+    <string name="content_ke">ke</string>
+    <string name="content_ko">ko</string>
+
+    <string name="content_sa">sa</string>
+    <string name="content_shi">shi</string>
+    <string name="content_su">su</string>
+    <string name="content_se">se</string>
+    <string name="content_so">so</string>
+
+    <string name="content_ta">ta</string>
+    <string name="content_chi">chi</string>
+    <string name="content_tsu">tsu</string>
+    <string name="content_te">te</string>
+    <string name="content_to">to</string>
+
+    <string name="content_na">na</string>
+    <string name="content_ni">ni</string>
+    <string name="content_nu">nu</string>
+    <string name="content_ne">ne</string>
+    <string name="content_no">no</string>
+
+    <string name="content_ha">ha</string>
+    <string name="content_hi">hi</string>
+    <string name="content_fu">fu</string>
+    <string name="content_he">he</string>
+    <string name="content_ho">ho</string>
+
+    <string name="content_ma">ma</string>
+    <string name="content_mi">mi</string>
+    <string name="content_mu">mu</string>
+    <string name="content_me">me</string>
+    <string name="content_mo">mo</string>
+
+    <string name="content_ya">ya</string>
+    <string name="content_yu">yu</string>
+    <string name="content_yo">yo</string>
+
+    <string name="content_ra">ra</string>
+    <string name="content_ri">ri</string>
+    <string name="content_ru">ru</string>
+    <string name="content_re">re</string>
+    <string name="content_ro">ro</string>
+
+    <string name="content_wa">wa</string>
+    <string name="content_wo">wo</string>
+    <string name="content_n">n</string>
+    <string name="content_blank">blank</string>
+
+</resources>
